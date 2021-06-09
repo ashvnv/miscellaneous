@@ -7,5 +7,5 @@
 #Covovax# #COVOVAX# #N#
 #ZyCoV-D# #ZYCOVD# #N#
 #HGC019# #HGC019# #N#
-#BBV154# #BBV154# #Y#
-#NA# #NA# #Y#
+#BBV154# #BBV154# #N#
+#NA# #NA# #N#
