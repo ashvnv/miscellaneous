@@ -3,3 +3,8 @@
 #Sputnik V# #SPUTNIKV# #Y#
 #Covishield# #COVISHIELD# #Y#
 #Covaxin# #COVAXIN# #Y#
+#Corbevax# #CORBEVAX# #N#
+#Covovax# #COVOVAX# #N#
+#ZyCoV-D# #ZYCOVD# #N#
+#HGC019# #HGC019# #N#
+#BBV154# #BBV154# #N#
