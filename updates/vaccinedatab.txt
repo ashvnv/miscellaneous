@@ -1,6 +1,6 @@
 <Vaccine name> <API Search name> <Vaccine available>
 
-#Sputnik V# #SPUTNIKV# #Y#
+#Sputnik V# #SPUTNIK V# #Y#
 #Covishield# #COVISHIELD# #Y#
 #Covaxin# #COVAXIN# #Y#
 #Corbevax# #CORBEVAX# #N#
