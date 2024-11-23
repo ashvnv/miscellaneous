@@ -2,6 +2,6 @@
 
 ## Mail me your issue or new feature request
 
-## Email id: 📧 *ashvnv@pm.me*
+## Email id: 📧 *ashwinvallab@outlook.com*
 
 ### I will try to get back to you as soon as possible ✌
